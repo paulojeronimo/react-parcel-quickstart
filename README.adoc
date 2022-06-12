@@ -1,0 +1,18 @@
+= React Parcel Quickstart
+
+Created by following the steps in the tutorial
+https://paulojeronimo.com/react-parcel-quickstart-tutorial
+
+Installation:
+
+....
+$ npm install
+....
+
+Execution:
+
+....
+$ npx parcel src/index.html
+....
+
+Open http://localhost:1234.
